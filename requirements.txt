@@ -1,0 +1,2 @@
+# 가로 컨테이너(horizontal/wrap), columns(wrap) 등 1.64 기능을 사용한다
+streamlit>=1.64
